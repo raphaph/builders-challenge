@@ -18,9 +18,10 @@ path: ETL/multas/_multas_extract_tranforms.ipynb
 Notas
 - Fiz apenas um pequeno tratamento para junção da coluna mês e ano para padronizar com a dCalendar
 
+Obs -> Por fim não utilizei no dashboard as tabelas com pósfixo '_grouped', demais tabelas foram suficiente.
 
-Observação -> Por fim não utilizei no dashboard as tabelas com pósfixo '_grouped', demais tabelas foram suficiente.
 ---
+
 Paths:
 
 📂 dashboard-powerbi
