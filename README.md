@@ -1,4 +1,4 @@
-<font color="red"># Builders-challenge</font>
+# Builders-challenge
 
 Como linguagem utilizei python com modelo de com notebook jupiter pra separar cada conjunto de dados e seus tratamentos, são basicamentes 2/3 etapas apenas paras as fonte de dados, conforme indicadores solicitados.
 
@@ -19,15 +19,15 @@ Notas
 - Fiz apenas um pequeno tratamento para junção da coluna mês e ano para padronizar com a dCalendar
 
 
-<font color="red">Observação: Por fim não utilizei no dashboard as tabelas com pósfixo '_grouped', demais tabelas foram suficiente.</font>
+Observação -> Por fim não utilizei no dashboard as tabelas com pósfixo '_grouped', demais tabelas foram suficiente.
 ---
 Paths:
 
-📂 dashboard-powerbi \n
+📂 dashboard-powerbi
 ↳ builders-challenge.pbix
 
-📂 ETL \n
-↳ covid -> notebook e tabelas.csv \n
+📂 ETL 
+↳ covid -> notebook e tabelas.csv |
 ↳ multas -> notebook e tabelas.csv
 
 📂 ~/ dCalendar notebook & .csv
