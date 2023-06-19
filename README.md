@@ -23,8 +23,11 @@ Obs -> Por fim não utilizei no dashboard as tabelas com pósfixo '_grouped', de
 ---
 
 Paths:
-📂 dashboard-powerbi/builders-challenge.pbix \n
-📂 ETL/covid/notebook e tabelas.csv \n
-📂 ETL/multas/notebook e tabelas.csv \n
-📂 ETL/dCalendar_notebook & tabela.csv \n
+📂 dashboard-powerbi/builders-challenge.pbix
+
+📂 ETL/covid/notebook e tabelas.csv
+
+📂 ETL/multas/notebook e tabelas.csv
+
+📂 ETL/dCalendar_notebook & tabela.csv
 
